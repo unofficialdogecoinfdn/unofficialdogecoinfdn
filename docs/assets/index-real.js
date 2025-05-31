@@ -1,1 +1,0 @@
-console.log("Blockchain Simplified - Real JS Loaded");
